@@ -8,3 +8,8 @@ Next add your database details in the settings.py DATABASE dictionary.
 Next, run python manage.py runserver. 
 The server should start. 
 You can now start shortening URLs!
+
+#Working Prototype:
+I have a prototype of this deployed on Heroku. 
+https://nadeesh-urlshortener.herokuapp.com
+Please feel free to give any feedback etc.
