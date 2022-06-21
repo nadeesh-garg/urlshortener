@@ -14,7 +14,7 @@ idna==2.6
 imutils==0.4.6
 kiwisolver==1.0.1
 Markdown==2.6.9
-numpy==1.14.3
+numpy==1.22.0
 oauthlib==2.0.4
 olefile==0.44
 parso==0.2.0
